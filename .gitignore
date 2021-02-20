@@ -1,0 +1,11 @@
+xcuserdata/
+*.ipa
+*.dSYM.zip
+*.dSYM
+.build/
+
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcworkspace/contents.xcworkspacedata
+**/xcshareddata/WorkspaceSettings.xcsettings
