@@ -22,6 +22,7 @@
 		23B872A025E1055000AEEBC9 /* AppConfiguration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23B8729F25E1055000AEEBC9 /* AppConfiguration.swift */; };
 		23B872A425E1057A00AEEBC9 /* app_configuration.json in Resources */ = {isa = PBXBuildFile; fileRef = 23B872A325E1057A00AEEBC9 /* app_configuration.json */; };
 		23B872BF25E111DE00AEEBC9 /* BookingEventData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23B872BE25E111DE00AEEBC9 /* BookingEventData.swift */; };
+		23B872C525E1134E00AEEBC9 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 23B872C425E1134E00AEEBC9 /* README.md */; };
 		23BCBCE625E0379E00B15842 /* VehicleStateProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23BCBCE525E0379E00B15842 /* VehicleStateProvider.swift */; };
 		23BCBCEE25E03EB400B15842 /* VehicleMapViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23BCBCED25E03EB400B15842 /* VehicleMapViewModel.swift */; };
 		23E12A1625E0664E0080E83A /* ViewState.swift in Sources */ = {isa = PBXBuildFile; fileRef = 23E12A1525E0664E0080E83A /* ViewState.swift */; };
@@ -59,6 +60,7 @@
 		23B8729F25E1055000AEEBC9 /* AppConfiguration.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppConfiguration.swift; sourceTree = "<group>"; };
 		23B872A325E1057A00AEEBC9 /* app_configuration.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = app_configuration.json; sourceTree = "<group>"; };
 		23B872BE25E111DE00AEEBC9 /* BookingEventData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookingEventData.swift; sourceTree = "<group>"; };
+		23B872C425E1134E00AEEBC9 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		23BCBCE525E0379E00B15842 /* VehicleStateProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VehicleStateProvider.swift; sourceTree = "<group>"; };
 		23BCBCED25E03EB400B15842 /* VehicleMapViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VehicleMapViewModel.swift; sourceTree = "<group>"; };
 		23E12A1525E0664E0080E83A /* ViewState.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewState.swift; sourceTree = "<group>"; };
@@ -89,6 +91,7 @@
 		2315E8B925D88CF8000243AC = {
 			isa = PBXGroup;
 			children = (
+				23B872C425E1134E00AEEBC9 /* README.md */,
 				2315E8C425D88CF8000243AC /* d2d */,
 				2315E8DB25D88CFE000243AC /* d2dTests */,
 				2315E8C325D88CF8000243AC /* Products */,
@@ -268,6 +271,7 @@
 			files = (
 				2315E8D225D88CFD000243AC /* LaunchScreen.storyboard in Resources */,
 				2315E8CF25D88CFD000243AC /* Assets.xcassets in Resources */,
+				23B872C525E1134E00AEEBC9 /* README.md in Resources */,
 				23B872A425E1057A00AEEBC9 /* app_configuration.json in Resources */,
 				2315E8CD25D88CF8000243AC /* Main.storyboard in Resources */,
 			);
